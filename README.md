@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Gitbook](https://github.com/Shawn-Code-Dev/git-hub-app)
 
+- 🌱 I’m currently learning TypeScript, C#, C++
+
 - 📝 I regularly write articles on [https://medium.com/@shawn.codedev](https://medium.com/@shawn.codedev)
 
 - 📫 How to reach me **Shawn.CodeDev@gmail.com**

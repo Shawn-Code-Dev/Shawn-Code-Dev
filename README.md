@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
 <h3 align="center">A driven software engineer and full stack developer.</h3>
 
-- 🔭 I’m currently working on [Gitbook](https://github.com/Shawn-Code-Dev/git-hub-app)
+- 🔭 I’m currently working on my skills.
 
 - 🌱 I’m currently learning TypeScript, C#, C++
 

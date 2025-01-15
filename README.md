@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my skills.
 
-- 🌱 I’m currently learning TypeScript, C#, C++
+- 🌱 I’m currently learning C++
 
 - 📝 I regularly write articles on [https://medium.com/@shawn.codedev](https://medium.com/@shawn.codedev)
 
